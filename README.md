@@ -1,0 +1,2 @@
+# Odin-recipes
+This is a project I have to do because I don't want to skip any of the steps and because I want to learn well the Git mode or the Git way of maintain that version control of all my projects. As coding or programing projects and the design projects
